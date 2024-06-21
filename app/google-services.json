@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "835022839169",
+    "project_id": "facedetect-14480",
+    "storage_bucket": "facedetect-14480.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835022839169:android:54a6809c98c3304e775c80",
+        "android_client_info": {
+          "package_name": "com.nurtaz.dev.facedetection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7w1eWYAqNEkW2qT9IJB2MRjAuIW0_ppU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
